@@ -1,0 +1,12 @@
+{
+  "name": "node-ico",
+  "version": "0.1.0",
+  "description": "Make an ICO file out of your perfectly optimized PNGs",
+  "main": "node-ico.js",
+  "dependencies": {
+    "bluebird": "2.3.x"
+  },
+  "devDependencies": {},
+  "author": "Ben Page <ben.page@openreign.com> (http://openreign.com/)",
+  "license": "MIT"
+}
